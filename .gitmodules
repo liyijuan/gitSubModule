@@ -1,4 +1,4 @@
 [submodule "ddd-java"]
 	path = ddd-java
 	url = https://github.com/liyijuan/ddd-java.git
-	branch = master
+	branch = master  # 或者 branch = main
