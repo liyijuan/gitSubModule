@@ -2,3 +2,7 @@
 	path = ddd-java
 	url = https://github.com/liyijuan/ddd-java.git
 	branch = master  # 或者 branch = main
+[submodule "JavaDemo"]
+	path = JavaDemo
+	url = https://github.com/liyijuan/JavaDemo.git
+	branch = main
